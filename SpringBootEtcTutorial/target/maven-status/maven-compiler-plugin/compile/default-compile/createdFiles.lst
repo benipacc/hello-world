@@ -1,0 +1,10 @@
+com\ipacc\prodprice\bootexample\domain\Message$MessageBuilder.class
+com\ipacc\prodprice\bootexample\domain\Message.class
+com\ipacc\prodprice\bootexample\endpoint\Controller.class
+com\ipacc\prodprice\bootexample\resource\MessageResource.class
+com\ipacc\prodprice\bootexample\MyBootApplication.class
+com\ipacc\prodprice\bootexample\data\entity\MessageEntity.class
+com\ipacc\prodprice\bootexample\resource\MessageResource$MessageResourceBuilder.class
+com\ipacc\prodprice\bootexample\data\repository\MessageRepository.class
+com\ipacc\prodprice\bootexample\data\entity\MessageEntity$MessageEntityBuilder.class
+com\ipacc\prodprice\bootexample\data\repository\MessageSDRRepository.class
